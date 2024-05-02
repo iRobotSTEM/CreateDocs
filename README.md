@@ -6,7 +6,7 @@ The Create® 2 robot is a programmable robot based on the iRobot Roomba vacuum r
 There have been three versions of the Create® robot series:
 - The original Create® robot, released in 2007. This robot was based on the Roomba® Discovery series robots. It is all-white.
 - The Create® 2 robot, released in 2014. This robot is based on the Roomba® 650 robot and includes a green faceplate marked with safe places to drill into the robot to mount additional hardware.
-- The Create® 3 robot, released in 2022. This robot is based on the Roomba® i3 robot and includes a translucent black faceplate and custom payload bay with holes for mounting.
+- The Create® 3 robot, released in 2022. This robot is based on the Roomba® i3 robot and includes a translucent black faceplate and custom payload bay with holes for mounting. Documentation for the the Create® 3 robot can be found [here](https://iroboteducation.github.io/create3_docs/).
 ### What age(s) is the Create® 2 educational robot designed for?
 The Create® 2 educational robot is a STEM resource for educators, students, and developers. It is an advanced platform intended for college and professional learners, or those with serial programming experience. Please note: The Create® 2 robot is a legacy product and is no longer available for purchase.
 ### How do I know the Create® 2 educational robot is right for me or my students?
